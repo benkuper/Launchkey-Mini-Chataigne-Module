@@ -38,7 +38,7 @@
 			"Pad 13": { "type":"Enum", "options": {"Black":[0,0], "Red":[3,0], "Green":[0,3], "Yellow":[3,3], "Lime":[1,3], "Orange":[3,1]} },
 			"Pad 14": { "type":"Enum", "options": {"Black":[0,0], "Red":[3,0], "Green":[0,3], "Yellow":[3,3], "Lime":[1,3], "Orange":[3,1]} },
 			"Pad 15": { "type":"Enum", "options": {"Black":[0,0], "Red":[3,0], "Green":[0,3], "Yellow":[3,3], "Lime":[1,3], "Orange":[3,1]} },
-			"Pad 16": { "type":"Enum", "options": {"Black":[0,0], "Red":[3,0], "Green":[0,3], "Yellow":[3,3], "Lime":[1,3], "Orange":[3,1]} },
+			"Pad 16": { "type":"Enum", "options": {"Black":[0,0], "Red":[3,0], "Green":[0,3], "Yellow":[3,3], "Lime":[1,3], "Orange":[3,1]} }
 		}
 	},
 
